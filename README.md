@@ -48,4 +48,4 @@
 
 ## Bootcamps and Immersions:
 
-- [x] Linux Bootcamp from Scratch - DIO
+- [x] DevClub BOOTCAMP - Full Stack
