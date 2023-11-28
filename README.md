@@ -2,7 +2,7 @@
 
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
 
-## I'm Thiago Weslley!
+## I'm Vicente Neto!
 
 :iphone: Web and mobile developer in training!
 
@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,scss,styledcomponents,bootstrap,git"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,express,css,styledcomponents,nodejs,git"/>
   </a>
 </p>
 
@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,tailwind,java"/>
+    <img src="https://skillicons.dev/icons?i=figma,tailwind,next,"/>
   </a>
 </p>
 
